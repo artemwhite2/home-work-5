@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-size: 25px;
+}
+
+#text{
+    color: white;
+    background-color: slategray;
+}
+
+
+.text{
+    color: violet;
+    background-color: black;
+    font-size: 60px;
+}
+
+
+.title{
+    color: blue;
+    font-size: 45px;
+}
